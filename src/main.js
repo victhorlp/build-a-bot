@@ -1,6 +1,7 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import './index.css';
+import './styles/app.css';
+import './assets/tailwind.css';
 // Vue.config.productionTip = false
 
 // new Vue({
